@@ -11,3 +11,4 @@ image_repositories = []
 
 [default.global.parameters]
 region = "ap-south-1"
+profile = "mansid"
